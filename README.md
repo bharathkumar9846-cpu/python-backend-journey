@@ -25,5 +25,6 @@ This repository contains my learning journey toward becoming a Backend Developer
 - Student Management System
 - Expense Tracker
 - Mini Calculator
+
  Goal
 This repository tracks my **8-month backend development journey** focused on Python and backend technologies.
